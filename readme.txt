@@ -1,6 +1,6 @@
 Welcome to my second NodeJS code
 Here I have tried to check whether the user selected a home page (http://localhost:8000) or another page (like this http://localhost:8000/login)
-
+using hash table
 1. Create a JavaScript page (app.js)
 2. Create an html page (index.html)
 3. Create another html page (as an example login.html)
