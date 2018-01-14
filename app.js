@@ -7,7 +7,7 @@ var path = require('path');
 var ejsLayouts = require('express-ejs-layouts');
 
 
-var adb = require('./app_server/models/db');
+var db = require('./app_server/models/db');
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname,'/app_server/views'));
