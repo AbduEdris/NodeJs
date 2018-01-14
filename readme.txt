@@ -1,5 +1,6 @@
-Welcome to my first NodeJS code
-1. Create a JavaScript page (app.js)
-2. Create an html page (index.html)
-3. Create a communication between the two pages (using protocol=http and port number 8000)
- 
+create MongoDB connectivity
+1. create db.js in models folder
+2. add the following code  in app.js file var adb = require
+('./app_server/models/db');
+3. Initialize MongoDB
+4. Run the app.js code
